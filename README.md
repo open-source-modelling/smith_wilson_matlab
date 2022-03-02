@@ -1,5 +1,5 @@
 <h1 align="center" style="border-botom: none">
-  <b>📚 Smith-WIlson algorithm📚
+  <b>📚 Smith-Wilson algorithm📚
   </b>
 </h1>
 
